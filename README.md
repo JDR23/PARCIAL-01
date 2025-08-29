@@ -1,5 +1,5 @@
 # PARCIAL-01
-# Tienda Online en Python (Consola)
+# Tienda Online
 
 Proyecto universitario en Python que simula una tienda online con productos de **Electrodomésticos**, **Ropa** y **Alimentos**, donde el usuario puede:
 
